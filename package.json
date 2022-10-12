@@ -9,7 +9,7 @@
   "dependencies": {
     "native-base": "^2.12.1",
     "react": "16.6.3",
-    "react-native": "0.58.4",
+    "react-native": "0.70.2",
     "react-native-dash": "0.0.9",
     "react-native-easy-grid": "^0.2.1",
     "react-native-gesture-handler": "^1.0.15",
